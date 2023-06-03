@@ -1,2 +1,5 @@
 /.DS_Store
 /data.csv
+/*.py
+/*.npy
+/*.png
