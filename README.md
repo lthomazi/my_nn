@@ -6,13 +6,13 @@ The data and code can be found [here](https://drive.google.com/drive/folders/1Xj
 ### **Goal**: The 'hello world' of machine learning. 
 > ### Using the [MNIST database](https://www.wikiwand.com/en/MNIST_database) to recognize hand written digits. The MNIST database is a large dataset of handwritten digits used widely in machine learning and image processing for benchmarking classification algorithms. It contains 60,000 training images and 10,000 testing images, all grayscale and 28x28 pixels.
 
-## P1. The Math Behind The 'Magic'
+## The Math Behind The 'Magic'
 
 Each image is a 28x28 pixel training image where each pixel has a value between 0 and 255 (gray scale) where 0 is black and 255 is white. 
 
 We can represent the data as a matrix where each row is an example image of 784 items long because each item represents a pixel in that image (28 * 28 = 784). But first we need to transpose this example. So instead of each row being an example, each column will be an example still 784 items long.
 
-### P1.1 The NN
+### The NN
 I'll build a quite simple NN with one hidden layers. The input layer will be 784 nodes. Each of the pixels maps to a node. The hidden layer will have 10 units and the output layer will have 10 units too. Each of the nodes of will correspond to a digit that can be predicted (0,1...8,9). 
 
 There is three parts to training this network:
