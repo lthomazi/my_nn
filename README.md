@@ -1,5 +1,5 @@
 # Building a Neural Network From Scratch
-The data and code can be found [here](https://drive.google.com/drive/folders/1XjMR1pgWWjI3V_7D_EfF3j-_Q2UV0Ccw?usp=sharing)
+The data used can be found [here](https://drive.google.com/drive/folders/1XjMR1pgWWjI3V_7D_EfF3j-_Q2UV0Ccw?usp=sharing)
 ### By: _Lucas Thomazi_
 ### The inspiration for this project came from [this](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) playlist from [3Blue1Brown](https://www.youtube.com/@3blue1brown) where he explains what are neural networks and how do they work. It is only meant to be used as a learning tool but feel free to play around with it! ;)
 
